@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeongKwanho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JeongKwanho&fontSize=90)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongKwanho&exclude_repo=JeongKwanho.github.io&layout=compact&theme=tokyonight" />
