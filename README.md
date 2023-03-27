@@ -12,7 +12,7 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=Visualstudio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Visualstudio&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Unity-6DB33F?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
