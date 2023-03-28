@@ -17,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/Unity-6DB33F?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenModelica-6DB33F?style=flat-square&logo=OpenModelica&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/VisualStuidio-6DB33F?style=flat-square&logo=Visualstudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
