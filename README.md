@@ -18,11 +18,10 @@
   <img src="https://img.shields.io/badge/Unity-6DB33F?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenModelica-6DB33F?style=flat-square&logo=OpenModelica&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Arduino-6DB33F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Embed-6DB33F?style=flat-square&logo=Embedstudio&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Windows-E6B91E?style=flat-square&logo=Winodows&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Windows-E6B91E?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E6B91E?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-E6B91E?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
 <!--
